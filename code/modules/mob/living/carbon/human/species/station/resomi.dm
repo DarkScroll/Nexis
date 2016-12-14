@@ -37,6 +37,7 @@
 	gluttonous = GLUT_TINY
 	blood_volume = 280
 	hunger_factor = 0.2
+	darksight = 8
 
 	spawn_flags = CAN_JOIN | IS_WHITELISTED
 	appearance_flags = HAS_HAIR_COLOR | HAS_SKIN_COLOR | HAS_EYE_COLOR

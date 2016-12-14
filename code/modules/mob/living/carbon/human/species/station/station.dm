@@ -155,10 +155,12 @@
 	secondary_langs = list(LANGUAGE_SKRELLIAN)
 	name_language = null
 	health_hud_intensity = 1.75
+	brute_mod = 1.2
+	burn_mod =  1.4
 
 	min_age = 19
 	max_age = 90
-	
+
 	darksight = 4
 
 	spawn_flags = CAN_JOIN | IS_WHITELISTED
@@ -167,7 +169,7 @@
 	flesh_color = "#8CD7A3"
 	blood_color = "#1D2CBF"
 	base_color = "#006666"
-	
+
 	cold_level_1 = 280 //Default 260 - Lower is better
 	cold_level_2 = 220 //Default 200
 	cold_level_3 = 130 //Default 120
